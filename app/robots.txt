@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://linkbocildoodstream.pages.dev/sitemap.xml
